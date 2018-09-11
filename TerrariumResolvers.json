@@ -1,0 +1,85 @@
+{
+        "AmazonDrive": [
+                "https://www.amazon.com/drive/v1/shares/"
+        ],
+        "AniStream": [
+                "http://www.ani-stream.com"
+        ],
+        "BlazeFile": [
+                "https://www.blazefile.co"
+        ],
+        "DivxStage": [
+                "http://www.cloudtime.to"
+        ],
+        "EStream": [
+                "https://estream.to"
+        ],
+        "EnterVideo": [
+                "http://entervideo.net"
+        ],
+        "FastPlay": [
+                "http://fastplay.to"
+        ],
+        "Filebebo": [
+                "https://filebebo.com"
+        ],
+        "MixLoads": [
+                "https://mixloads.com"
+        ],
+        "NxLoad": [
+                "http://nxload.com"
+        ],
+        "RealDebrid": [
+                "AlfaFile",
+                "ClicknUpload",
+                "FileFactory",
+                "FlashX",
+                "NitroFlare",
+                "Oboom",
+                "OneFichier",
+                "RapidGator",
+                "RockFile",
+                "TurboBit",
+                "Uploaded",
+                "UploadRocket"
+        ],
+        "PowVideo": [
+                "http://powvideo.net"
+        ],
+        "Putload": [
+                "https://putload.tv"
+        ],
+        "SpeedVideo": [
+                "http://speedvideo.net"
+        ],
+        "VK": [
+                "https://vk.com/"
+        ],
+        "VidMoly": [
+                "https://vidmoly.me"
+        ],
+        "VidUpOrg": [
+                "http://vidup.org"
+        ],
+        "VideoBee": [
+                "https://thevideobee.to"
+        ],
+        "VideoWeed": [
+                "http://www.bitvid.sx"
+        ],
+        "Vidoza": [
+                "http://vidoza.net"
+        ],
+        "Vidto": [
+                "http://vidto.me"
+        ],
+        "Vidzi": [
+                "https://vidzi.tv"
+        ],
+        "WeShare": [
+                "https://weshare.me"
+        ],
+        "Yandex": [
+                "https://yadi.sk/"
+        ]
+}
